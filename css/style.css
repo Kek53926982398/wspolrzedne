@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    background-color: black;
+    color: antiquewhite;
+    width: 100vw;
+    height: 100vh;
+}
+.flex
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
